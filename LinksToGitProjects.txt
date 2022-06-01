@@ -1,0 +1,24 @@
+3D game shaders for beginners:
+https://github.com/lettier/3d-game-shaders-for-beginners
+Adds a bunch of different shaders for people to use when making a game on unity,
+I referenced this because its possible i might end up using this for a project in my other class
+
+Citra:
+https://github.com/citra-emu/citra.git
+nintendo 3DS emulator
+Added it because it would be nice to play pokemon again, plus i thought it was cool
+
+Gitignore:
+https://github.com/github/gitignore.git
+collection of gitignore templates
+nessesary requirement
+
+Expo:
+https://github.com/expo/expo.git
+open source platform for making mobile apps
+could be helpful if i ever need or want to make a mobile app
+
+UnityLibrary:
+https://github.com/UnityCommunity/UnityLibrary.git
+library of various unity tools, scripts, shaders, etc.
+added it for reference material when coding other projects
